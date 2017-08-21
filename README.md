@@ -17,3 +17,5 @@ https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-2
 https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad
 
 https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3
+
+http://docs.opencv.org/trunk/da/d6e/tutorial_py_geometric_transformations.html
