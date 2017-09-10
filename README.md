@@ -28,3 +28,5 @@ https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-clo
 https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5
 
 https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9
+
+https://arxiv.org/pdf/1604.07316v1.pdf -- End to End learning for self driving cars
