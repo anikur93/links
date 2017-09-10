@@ -19,3 +19,12 @@ https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-n
 https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3
 
 http://docs.opencv.org/trunk/da/d6e/tutorial_py_geometric_transformations.html
+
+
+Project 3
+
+https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-cloning-6d2d87316c52
+
+https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5
+
+https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9
