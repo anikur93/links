@@ -30,3 +30,7 @@ https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behav
 https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9
 
 https://arxiv.org/pdf/1604.07316v1.pdf -- End to End learning for self driving cars
+
+
+Extras --
+https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/ -- New Optimizations Improve Deep Learning Frameworks For CPUs
