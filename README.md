@@ -34,3 +34,6 @@ https://arxiv.org/pdf/1604.07316v1.pdf -- End to End learning for self driving c
 
 Extras --
 https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/ -- New Optimizations Improve Deep Learning Frameworks For CPUs
+
+
+http://yosinski.com/deepvis --- Understanding Neural Networks Through Deep Visualization
