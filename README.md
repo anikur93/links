@@ -37,3 +37,6 @@ https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-
 
 
 http://yosinski.com/deepvis --- Understanding Neural Networks Through Deep Visualization
+
+
+https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd ---Artistic Style Transfer with Convolutional Neural Network
