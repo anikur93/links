@@ -34,6 +34,8 @@ https://arxiv.org/pdf/1604.07316v1.pdf -- End to End learning for self driving c
 
 Extras --
 
+http://iamaaditya.github.io/2016/03/one-by-one-convolution/, https://stackoverflow.com/questions/39366271/for-what-reason-convolution-1x1-is-used-in-deep-neural-networks -- 1 * 1 convolution
+
 https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/ -- New Optimizations Improve Deep Learning Frameworks For CPUs
 
 
